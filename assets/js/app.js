@@ -389,6 +389,11 @@ var APP = (function ($) {
         ip: 'Warcraft',
         role: 'Support'
       },
+      'malganis': {
+        fullname: 'Mal\'Ganis',
+        ip: 'Warcraft',
+        role: 'Warrior'
+      },
       'malthael': {
         fullname: 'Malthael',
         ip: 'Diablo',
@@ -398,6 +403,11 @@ var APP = (function ($) {
         fullname: 'Medivh',
         ip: 'Warcraft',
         role: 'Specialist'
+      },
+	  'mephisto': {
+        fullname: 'Mephisto',
+        ip: 'Diablo',
+        role: 'Assassin'
       },
       'muradin': {
         fullname: 'Muradin',
@@ -417,6 +427,11 @@ var APP = (function ($) {
       'nova': {
         fullname: 'Nova',
         ip: 'StarCraft',
+        role: 'Assassin'
+      },
+      'orphea': {
+        fullname: 'Orphea',
+        ip: 'Blizzard',
         role: 'Assassin'
       },
       'probius': {
@@ -533,6 +548,11 @@ var APP = (function ($) {
         fullname: 'Varian',
         ip: 'Warcraft',
         role: 'Warrior'
+      },
+      'whitemane': {
+        fullname: 'Whitemane',
+        ip: 'Warcraft',
+        role: 'Support'
       },
       'xul': {
         fullname: 'Xul',
